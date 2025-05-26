@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    color: #fff;
+    background-color: rgb(72, 48, 48);
+
+}
+ 
+
+button{
+    display: inline-block;
+    background-color: #f8b627;
+    color:black;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 3px;
+    transition: 400ms;
+    text-decoration: none;
+    padding: 10px;
+    z-index: 100000;
+    margin-top: 300px;
+}
+
+img{
+    width: 200px;
+   
+}
+
+
+
